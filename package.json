@@ -1,0 +1,27 @@
+{
+  "name": "palpite-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericampos/palpite-box.git"
+  },
+  "keywords": [],
+  "author": "Eric de Oliveira Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericampos/palpite-box/issues"
+  },
+  "homepage": "https://github.com/ericampos/palpite-box#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
